@@ -7,4 +7,4 @@ Each version is a [release](https://github.com/Syncrose1/HOURGLASS-releases/rele
 APK attached. Every build is signed with the same key, so a new one installs over the last
 without losing your data.
 
-The source is private; this repository only holds the builds.
+This repository only holds the builds.
